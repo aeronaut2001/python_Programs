@@ -2,5 +2,5 @@
 
 - Basic Python programs
 
-1.Hello World Program
-2.
+1.Hello World Program <br>
+2.Area of triangle 
